@@ -1,0 +1,13 @@
+{
+  "name": "pubsub-to-sse",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lars Kluge <l@larskluge.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "redis-subscribe-sse": "^0.2.0"
+  }
+}

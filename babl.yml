@@ -1,0 +1,4 @@
+id: babl/pubsub-to-sse
+cmd: node index.js
+env:
+  SERVICE_TAGS: web
