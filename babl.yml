@@ -1,5 +1,2 @@
-id: babl/pubsub-to-sse
+id: babl/redis-pubsub-to-sse
 cmd: node index.js
-mem: 32
-env:
-  SERVICE_TAGS: web
